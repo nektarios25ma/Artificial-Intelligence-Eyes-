@@ -20,3 +20,4 @@ Artificial Intelligence Eyes
 Η)ΣΎΝΔΕΣΜΟΙ-ΚΑΛΩΔΙΑ: https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/prototyping/connectors/jst-xh2.54-2p-2pin-connector-male-female/  Χ4  ΚΑΙ https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/prototyping/wires/ph2.0/jst-4pin-ph2.0-micro-jst-connector-with-20cm-wire-cable-female-and-male/  Χ4
 Θ)ΡΥΘΜΙΣΤΗΣ ΤΑΣΗΣ https://www.hellasdigital.gr/electronics/boost-and-buck-converters/5a-75w-dc-dc-adjustable-step-down-module-step-down-modules-with-voltmeter/
  
+VIDEO ΕΠΙΔΕΙΞΗΣ : https://drive.google.com/file/d/1QdVs-U6b4qwq3YEPzns-x6yr3CGYF0Go/view?usp=sharing
