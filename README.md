@@ -19,5 +19,7 @@ Artificial Intelligence Eyes
 Η)μπαταρία: https://topelectronics.gr/rc-and-drones/batteries/lipo/3s-11.1v/gens-ace-soaring-3300mah-11.1v-30c-3s1p-lipo-battery-pack-with-xt90-plug/
 Η)ΣΎΝΔΕΣΜΟΙ-ΚΑΛΩΔΙΑ: https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/prototyping/connectors/jst-xh2.54-2p-2pin-connector-male-female/  Χ4  ΚΑΙ https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/prototyping/wires/ph2.0/jst-4pin-ph2.0-micro-jst-connector-with-20cm-wire-cable-female-and-male/  Χ4
 Θ)ΡΥΘΜΙΣΤΗΣ ΤΑΣΗΣ https://www.hellasdigital.gr/electronics/boost-and-buck-converters/5a-75w-dc-dc-adjustable-step-down-module-step-down-modules-with-voltmeter/
- 
+
+Στον κώδικα έχει προβλεφθεί να μπουν led neo pixel όπυ θα δείχνουν σε ποιό στάδιο βρίσκεται ο κώδικας: εκπαίδευση.είσοδος ή έξοδος( 27=3χ9 leds neo pixel).
 VIDEO ΕΠΙΔΕΙΞΗΣ : https://drive.google.com/file/d/1QdVs-U6b4qwq3YEPzns-x6yr3CGYF0Go/view?usp=sharing
+VIDEO ΕΠΙΔΕΙΞΗΣ ΑΠΟ ΤΟΥΣ ΜΑΘΗΤΕΣ: https://www.youtube.com/watch?v=39_9H6-PB2Q&t=1s
