@@ -52,3 +52,18 @@ Artificial Intelligence Eyes
 Στον κώδικα έχει προβλεφθεί να μπουν led neo pixel όπου θα δείχνουν σε ποιό στάδιο βρίσκεται ο κώδικας: εκπαίδευση.είσοδος ,κρυμμένοι κόμβοι και έξοδος( 27=3χ9 leds neo pixel).
 VIDEO ΕΠΙΔΕΙΞΗΣ : https://drive.google.com/file/d/1QdVs-U6b4qwq3YEPzns-x6yr3CGYF0Go/view?usp=sharing
 VIDEO ΕΠΙΔΕΙΞΗΣ ΑΠΟ ΤΟΥΣ ΜΑΘΗΤΕΣ: https://www.youtube.com/watch?v=39_9H6-PB2Q&t=1s
+
+ΠΗΓΕΣ
+VIDEO: https://www.youtube.com/watch?v=jmmW0F0biz0
+
+WIKIPEDIA NEURAL NETWORKS LINK: https://el.wikipedia.org/wiki/%CE%9D%CE%B5%CF%85%CF%81%CF%89%CE%BD%CE%B9%CE%BA%CF%8C_%CE%B4%CE%AF%CE%BA%CF%84%CF%85%CE%BF
+
+ 
+
+ΕΙΣΑΓΩΓΗ ΣΤΟ ESP32 : https://dronebotworkshop.com/esp32-intro/
+
+ 
+
+NEURAL NETWORK ΕΙΣΑΓΩΓΗ ΜΕ ΑΠΛΟ ΠΑΡΑΔΕΙΓΜΑ ΣΕ ARDUINO UNO: https://www.the-diy-life.com/running-an-artificial-neural-network-on-an-arduino-uno/
+
+ 
